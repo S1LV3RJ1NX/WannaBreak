@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Test
+Exec=/home/prathamesh/programming/project_1/Timer
+Terminal=false
+Type=Application
+StartupNotify=true
+Name[en_IN]=Timer
+
+
+
+###
+
+Put your own path in in Exec. Delete the comments between ###.....### and save the file as file_name.desktop
+Go to properties of file and make it executable
+
+###
